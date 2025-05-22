@@ -1,1 +1,1 @@
-print(pow(3,2))
+print(pow(3,2)) # bu  pow  sonning darajasini hisoblab beradi 
