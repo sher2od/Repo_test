@@ -17,8 +17,8 @@ k_1 = son // 1
 son = son % 1
 print(f"$1 kuouryadan ", k_1,"ta")
 
-son1 = 186
-print("umumiy summa >",son1)
-print(num2words(son1,len='en'))
-print(num2words(son1,len='ru'))
+pul = son
+print("umumiy summa >",pul)
+print(num2words(pul,lang='en'))
+print(num2words(pul,lang='ru'))
 
